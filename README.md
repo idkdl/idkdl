@@ -1,16 +1,19 @@
-## Hi there 👋
+## wind/idkdl on github, preferred to be called wind
 
-<!--
-**idkdl/idkdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# some things about me
 
-Here are some ideas to get you started:
+* i love seals lowk cute 
+* currently learning how to reverse engineer games and put them onto the web
+* making my own unblocked games site (UBG) for my ports, coming soon!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# stuff i like
+
+* technology
+* running
+* working on fun projects
+
+# What I'm working on atm
+
+* ports for games
+* games website
+* school stuffz
