@@ -1,12 +1,14 @@
 ## wind/idkdl on github, preferred to be called wind
 
-# some things about me
+# Some things about me!
 
 * i love seals lowk cute 
 * currently learning how to reverse engineer games and put them onto the web
 * making my own unblocked games site (UBG) for my ports, coming soon!
 
-# stuff i like
+# Things I like
+
+# *seals.*
 
 * technology
 * running
